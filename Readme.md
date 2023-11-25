@@ -10,4 +10,5 @@ Integrantes:
 Resultado:
 
 
-    <img src="./resultado.jpg" alt="Resultado do projeto"/>
+
+<img src="./resultado.jpg" alt="Resultado do projeto"/>
