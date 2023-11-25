@@ -1,4 +1,5 @@
 Integrantes: 
+    
     Nome: Murilo Molina Barone 
     RA: 23.01001-0
 
@@ -7,4 +8,6 @@ Integrantes:
 
 
 Resultado:
+
+
     <img src="./resultado.jpg" alt="Resultado do projeto"/>
